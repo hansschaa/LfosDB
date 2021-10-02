@@ -13,7 +13,7 @@ lion-lion,lions
 dinosaur-dinosaur,dinosaurs
 attraction-attraction,attracted
 pool-pool,pools
-Atari-Atari
+atari-atari
 dragon-dragon,dragons
 abdominal-abdominal,abdominals
 abominable-abominable
